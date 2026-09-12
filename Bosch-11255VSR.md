@@ -1,6 +1,7 @@
 ---
 title: Bosch 11255VSR 1" Rotary Hammer
 parent: Tools
+layout: default
 ---
 
 # Bosch 11255VSR 1" Rotary Hammer
