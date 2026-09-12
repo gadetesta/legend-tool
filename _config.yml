@@ -2,7 +2,8 @@ title: Tool PoC
 description: POC Doc Library for NEPTL Tools
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: "https://gadetesta.github.io"
+baseurl: "/legend-tool"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Repository: "https://github.com/gadetesta/legend-tool"
